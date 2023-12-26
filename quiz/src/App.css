@@ -21,6 +21,7 @@ body {
     rgba(9, 9, 121, 1) 35%,
     rgba(0, 212, 255, 1) 100%
   );
+  overflow-x: hidden;
 }
 #home-parent {
   height: 100vh;
